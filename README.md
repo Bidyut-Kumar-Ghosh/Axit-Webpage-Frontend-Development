@@ -8,4 +8,4 @@ Preview of Project :-
 
 To See Project Click Below Live Link :- 
 
-https://uniquecoderorg.github.io/AXIT-Webpage-Frontend-Development/
+https://uniquecoderorg.github.io/Axit-Webpage-Frontend-Development/
